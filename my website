@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My </title>
+</head>
+<body>
+	<h1>Coding</h1>
+
+	<h2>Day 1</h2>
+	
+	<h3>June 12, 2017</h3>
+
+	<p>Today we learned about html</p>
+
+	<ul>
+		<li>Intro to developing sites</li>
+		<li>Browsers</li>
+		<li>HTML</li>
+	</ul>
+
+	<a href="#">This is a link</a>
+</body>
+</html>
+
+
+
+
+
+
+
+
+

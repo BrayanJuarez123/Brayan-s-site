@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+		<title>Eduardo Juarez</title>
+
+</head>
+
+<body style="color: white; background-color: blue; font-family: Arial"> 
+
+	<h1 style="color" blue> Who am I?</h1>
+
+<p> My name is Eduardo Juarez. I am 13 years old and I am in middle school. I attend CFVMS and I am going into 8th grade this year. I like a many things that include technology for example, I play on my PS4 and on my phone several times during the day. I also know Spanish which as been very helpful throughout my life. This webpage will inclu links to other pages where I talk about things about me, and my contact information.
+
+	<h2 style="color" green>Likes</h2>
+
+	<p>I like many things in this world. Videogames, movies, sports, etc. When I grow up I either want to be a mvie director or a software developer. My hobbies and likes have affected my thoughts on my career. I also like to hangout with friends and family.
+	
+	<h3 style="color" red>Dislikes</h3>
+
+	<p>I do not dislike many things. I don't like politics because they are too complicated. I also hate spiders and everything related to them, except spiderman, he's cool. I don't like Donald Trump either. I think we would be better off with someone else. </p>
+
+	<a href="#">About me</a>
+
+	<a href="">Contact</a>
+
+</body>
+
+</html>
